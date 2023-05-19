@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
-<h3 align="center">A passionate frontend developer from Turkiye</h3>
+<h3 align="center">A passionate developer from Turkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hobugday&label=Profile%20views&color=0e75b6&style=flat" alt="hobugday" /> </p>
 
