@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hobugday" target="blank"><img src="https://img.shields.io/twitter/follow/twitter?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
 
-- 🌱 I’m currently learning **Java and React. Also i'm really interested in blockchain technology.**
+- 🌱 I’m currently learning **Java, React and Solidity. Also i'm really interested in blockchain technology.**
 
 - 💬 Ask me about **anything**
 
